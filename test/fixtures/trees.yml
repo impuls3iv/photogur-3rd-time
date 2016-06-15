@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  treetype: MyString
+  height: MyString
+  url: MyString
+
+two:
+  treetype: MyString
+  height: MyString
+  url: MyString
