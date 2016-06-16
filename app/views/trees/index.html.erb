@@ -1,1 +1,6 @@
 <h1>Different types of trees</h1>
+
+<% @trees.each do |atree| %>
+  <p><%= atree.treetype %>, <%= atree.height %></p>
+  <img src="<%= atree.url %>" />
+<% end  %>
